@@ -1,0 +1,29 @@
+What is data Structure?
+way to organize data
+
+popular types:
+Array: a collection of elements with similar data types. example array of integers [1,2,3,4,5,6]
+LinkedList: holds elements and address of the next node
+Hash Table
+Trees
+Stack
+Queue
+
+
+what is an Algorithm?
+Algorithm is a way to solve a particular problem
+
+Types:
+Searching: Linear Search, Binary Search
+Sorting: Quick Sort, Merge Sort
+
+
+Must Know DSA topics:
+
+Priority 1: Array, LinkedList, hash table, Strings, Sorting, Searching, Hashing, Time Complexity Space Complexity
+Priority 2: Dynamic Programming, Trees(binary search tree)
+Priority 3: Heap(min & max), Stack(LIFO), Queue
+
+
+Terminology:
+Time Complexity: Number of operations, how time grows when data grows
